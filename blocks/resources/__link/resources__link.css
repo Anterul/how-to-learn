@@ -5,7 +5,7 @@
   transition-timing-function: linear;
   transition-delay: 0s;
 }
- 
+
 .resources__link:hover {
   opacity: .5;
 }
