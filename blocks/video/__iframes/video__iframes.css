@@ -4,3 +4,7 @@
   padding: 0;
   list-style: none;
 }
+
+.video__iframes li:last-child {
+  margin-left: 20px;
+}
